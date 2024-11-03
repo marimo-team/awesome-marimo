@@ -30,7 +30,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Discord](https://marimo.io/discord)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
 - [WebAssembly Playground](https://marimo.app)
-- [Awesome marimo](https://githubg.com/marimo-team/awesome-marimo)
+- [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
 
 ### Tutorials
 
