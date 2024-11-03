@@ -31,10 +31,13 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
 - [WebAssembly Playground](https://marimo.app)
 - [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
+- [Spotlights](https://github.com/marimo-team/spotlights/)
+- [VSCode Plugin](https://github.com/marimo-team/vscode-marimo)
 
 ### Tutorials
 
-_Add your tutorial here!_
+- [marimo-tutorials](https://github.com/Haleshot/marimo-tutorials/) - A collection of community-driven tutorials spanning multiple disciplines.
+- [Calmcode.io Course](https://calmcode.io/course/marimo/introduction) - An introductory course covering marimo basics and usage.
 
 ## Get Started
 
@@ -54,8 +57,12 @@ _Add your tutorial here!_
 
 ## Projects Using marimo
 
-_Add your project here!_
+- [WE3 Lab Energy Flexibility](https://github.com/marimo-team/spotlights/tree/main/009-WE3-Lab) - Stanford research on valuing energy flexibility from water systems in decarbonizing grids.
+- [CVXPY NASA Course](https://github.com/marimo-team/spotlights/tree/main/005-cvxpy-nasa) - Interactive convex optimization course for NASA scientists using marimo notebooks.
 
 ## Talks
 
-- [marimo: an open-source reactive notebook for Python](https://www.youtube.com/watch?v=9R2cQygaoxQ) - North Bay Python, 2024.
+- [marimo: an open-source reactive notebook for Python](https://www.youtube.com/watch?v=9R2cQygaoxQ) - *North Bay Python, 2024* ([slides](https://docs.google.com/presentation/d/1dzTuViK7sn4LKLod-7aR828FI3-hBEdxZLDNdL9L-rI/edit#slide=id.g2d05ea9da64_0_536), [conference info](https://pretalx.northbaypython.org/nbpy-2024/talk/LSLE9A/))
+- [Lessons learned from building a reproducible notebook for AI/ML using graphs](https://www.youtube.com/live/3e9YAdOpihI?si=3cMlUJoFoIVDnmxx&t=1738) - Technical talk at MLOps Learners community
+- [How to rethink the notebook](https://youtu.be/srQ3ESat6u4) - Interview with Akshay Agrawal discussing marimo's development and features
+- [Community Call #1](https://drive.google.com/file/d/1_3cScwQLR_Iz8wbScv6rzP7C2CZDR_tb/view?usp=sharing) - First marimo community call discussing updates and developments
