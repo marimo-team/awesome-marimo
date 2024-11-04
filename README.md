@@ -38,6 +38,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 - [Calmcode](https://calmcode.io/course/marimo/introduction) - A collection of video tutorials by [Vincent Warmerdam](https://x.com/fishnets88).
 - [marimo's intro tutorial](https://marimo.app/?slug=c7h6pz) - The first tutorial that comes packaged with marimo.
+- [marimo-tutorials](https://github.com/Haleshot/marimo-tutorials) - A collection of community-driven tutorials spanning multiple disciplines.
 
 ## Get Started
 
