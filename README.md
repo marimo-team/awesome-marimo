@@ -57,11 +57,11 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
 - [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
+- [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
+- [mohtml](https://github.com/koaning/mohtml) — DSL for HTML that targets marimo.
 
 ## Projects Using marimo
 
-- [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
-- [mohtml](https://github.com/koaning/mohtml) — DSL for HTML that targets marimo.
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
 
