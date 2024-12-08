@@ -59,16 +59,17 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
-- [mohtml](https://github.com/koaning/mohtml) — DSL for HTML that targets marimo.
-- [wigglystuff](https://github.com/koaning/wigglystuff) — Creative widgets for explorable explanations
+- [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
+- [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
 
-- [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) — A tool to support backtests, with marimo notebooks as examples
-- [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) — Compile risk with CVXPY, with marimo notebooks as examples
+- [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples.
+- [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples.
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
+- [alhazen](https://github.com/chanzuckerberg/alhazen) - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 
 ## Education
 
@@ -82,6 +83,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 ## Podcasts
 
 - [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
+- [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
 
 ## Blogs
 
