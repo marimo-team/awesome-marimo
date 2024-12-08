@@ -69,6 +69,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
+- [alhazen](https://github.com/chanzuckerberg/alhazen) - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 
 ## Education
 
