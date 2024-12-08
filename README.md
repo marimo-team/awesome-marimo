@@ -60,12 +60,12 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
-- [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations
+- [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
 
-- [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples
-- [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples
+- [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples.
+- [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples.
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
