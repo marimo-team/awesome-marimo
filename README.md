@@ -70,7 +70,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples.
 - [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples.
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
-- [puppy](https://github.com/liquidcarbon/puppy) - A Python project manager, with support for marimo
+- [puppy](https://github.com/liquidcarbon/puppy) - A Python project manager, with support for marimo.
 
 ## Education
 
