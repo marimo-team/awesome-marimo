@@ -13,6 +13,9 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 <a href='https://github.com/marimo-team/awesome-marimo'>
 <img src='https://awesome.re/badge-flat2.svg' alt='Awesome'>
 </a>
+<a href="https://doi.org/10.5281/zenodo.12735329">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14511438.svg" alt="DOI"/>
+</a>
 </p>
 
 ## Table of Contents
