@@ -13,6 +13,9 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 <a href='https://github.com/marimo-team/awesome-marimo'>
 <img src='https://awesome.re/badge-flat2.svg' alt='Awesome'>
 </a>
+<a href="https://doi.org/10.5281/zenodo.12735329">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14511438.svg" alt="DOI"/>
+</a>
 </p>
 
 ## Table of Contents
@@ -85,6 +88,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 - [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
+- [Reimagining Python Notebooks with marimo](https://creators.spotify.com/pod/show/ossstartuppodcast/episodes/E161-Reimagining-Python-Notebooks-with-Marimo-e2sd75p/a-abmeist) - Open Source Startup Podcast, 2024.
 
 ## Blogs
 
