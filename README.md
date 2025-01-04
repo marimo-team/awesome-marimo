@@ -63,6 +63,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
+- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
