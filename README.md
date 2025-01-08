@@ -13,6 +13,9 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 <a href='https://github.com/marimo-team/awesome-marimo'>
 <img src='https://awesome.re/badge-flat2.svg' alt='Awesome'>
 </a>
+<a href="https://doi.org/10.5281/zenodo.12735329">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14511438.svg" alt="DOI"/>
+</a>
 </p>
 
 ## Table of Contents
@@ -60,6 +63,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
+- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
