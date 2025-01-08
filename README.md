@@ -85,6 +85,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 - [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
+- [Building the future of collaborative AI development with Akshay Agrawal](https://podcasts.apple.com/us/podcast/building-the-future-of-collaborative-ai/id1504567418?i=1000682999652) - Gradient Dissent: Conversations on AI, 2025.
 
 ## Blogs
 
