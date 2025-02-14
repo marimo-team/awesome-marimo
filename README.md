@@ -31,6 +31,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Documentation](https://docs.marimo.io/)
 - [GitHub Repo](https://github.com/marimo-team/marimo)
 - [Discord](https://marimo.io/discord)
+- [YouTube](https://www.youtube.com/@marimo-team)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
 - [WebAssembly Playground](https://marimo.app)
 - [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
