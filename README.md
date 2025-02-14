@@ -96,3 +96,4 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) - Behind-the-scenes development blog about marimo's design principles.
 - [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WASM via Pyodide.
 - [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) - How marimo enables reproducibility of notebooks, down to the packages.
+- [Why Stanford scientists needed a new Python notebook](https://marimo.io/blog/slac-marimo) - How SLAC National Lab uses marimo for scientific computing tasks.
