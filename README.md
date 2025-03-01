@@ -70,7 +70,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Projects Using marimo
 
-- [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo.
+- [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo.
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
 - [alhazen](https://github.com/chanzuckerberg/alhazen) - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
