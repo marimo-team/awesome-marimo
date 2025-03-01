@@ -70,7 +70,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Projects Using marimo
 
-- [marimo agents](https://github.com/marimo-team/marimo/issues/3916)
+- [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo
 - [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
 - [alhazen](https://github.com/chanzuckerberg/alhazen) - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
@@ -81,7 +81,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Education
 
-- [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) — Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium
+- [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) - Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium
 - [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
 - [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
 
