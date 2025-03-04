@@ -82,6 +82,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 ## Education
 
 - [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) - Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium.
+- [Supply Chain Network Design](https://wvu-gscm-425.github.io/learning-modules/01-setting-up-your-workstation.html#marimo) - A course on supply chain optimization and design, featuring marimo notebooks. 
 - [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
 - [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
 
