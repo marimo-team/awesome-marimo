@@ -99,6 +99,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Blogs
 
+- [Reinventing notebooks as reusable Python programs](https://marimo.io/blog/python-not-json) - Explores how marimo transforms notebooks into versionable Python files for improved usability and testing.
 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) - Behind-the-scenes development blog about marimo's design principles.
 - [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WASM via Pyodide.
 - [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) - How marimo enables reproducibility of notebooks, down to the packages.
