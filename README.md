@@ -66,8 +66,8 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
 - [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
-- [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw
-- [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw
+- [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw.
+- [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
