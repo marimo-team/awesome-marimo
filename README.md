@@ -66,6 +66,8 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
 - [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
+- [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw
+- [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
@@ -92,7 +94,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Podcasts
 
-- [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
+- [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Space, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
 - [Reimagining Python Notebooks with marimo](https://creators.spotify.com/pod/show/ossstartuppodcast/episodes/E161-Reimagining-Python-Notebooks-with-Marimo-e2sd75p/a-abmeist) - Open Source Startup Podcast, 2024.
 - [Building the future of collaborative AI development with Akshay Agrawal](https://podcasts.apple.com/us/podcast/building-the-future-of-collaborative-ai/id1504567418?i=1000682999652) - Gradient Dissent: Conversations on AI, 2025.
