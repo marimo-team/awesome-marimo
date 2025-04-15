@@ -63,7 +63,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
-- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
+- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks.
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
@@ -90,6 +90,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
 - [Reimagining Python Notebooks with marimo](https://creators.spotify.com/pod/show/ossstartuppodcast/episodes/E161-Reimagining-Python-Notebooks-with-Marimo-e2sd75p/a-abmeist) - Open Source Startup Podcast, 2024.
+- [Marimo - Reactive Notebooks for Python](https://talkpython.fm/episodes/show/501/marimo-reactive-notebooks-for-python) - Talk Python To Me, 2025.
 
 ## Blogs
 
