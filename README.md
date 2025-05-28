@@ -31,8 +31,10 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Documentation](https://docs.marimo.io/)
 - [GitHub Repo](https://github.com/marimo-team/marimo)
 - [Discord](https://marimo.io/discord)
+- [YouTube](https://www.youtube.com/@marimo-team)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
 - [WebAssembly Playground](https://marimo.app)
+- [marimo learn](https://github.com/marimo-team/learn)
 - [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
 - [Spotlights](https://github.com/marimo-team/spotlights/)
 - [VSCode Plugin](https://github.com/marimo-team/vscode-marimo)
@@ -56,19 +58,22 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Libraries
 
+- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
 - [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - A mkdocs plugin for reactive and interactive docs with marimo.
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
-- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
 - [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
-- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks. 
+- [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks.
+- [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw.
+- [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 
 ## Projects Using marimo
 
-- [marimo on mutable.ai](https://mutable.ai/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
+- [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo.
+- [marimo on deepwiki.com](https://deepwiki.com/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
 - [marimo Guru](https://gurubase.io/g/marimo) - Chat with the marimo docs and codebase.
 - [alhazen](https://github.com/chanzuckerberg/alhazen) - AI agents + toolkits for scientific knowledge, with dashboard visualizations in marimo.
 - [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples.
@@ -78,6 +83,8 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Education
 
+- [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) - Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium.
+- [Supply Chain Network Design](https://wvu-gscm-425.github.io/learning-modules/01-setting-up-your-workstation.html#marimo) - A course on supply chain optimization and design, featuring marimo notebooks. 
 - [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
 - [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
 
@@ -88,13 +95,17 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Podcasts
 
-- [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Spaces, 2024.
+- [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Space, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
 - [Reimagining Python Notebooks with marimo](https://creators.spotify.com/pod/show/ossstartuppodcast/episodes/E161-Reimagining-Python-Notebooks-with-Marimo-e2sd75p/a-abmeist) - Open Source Startup Podcast, 2024.
+- [Marimo - Reactive Notebooks for Python](https://talkpython.fm/episodes/show/501/marimo-reactive-notebooks-for-python) - Talk Python To Me, 2025.
+- [Building the future of collaborative AI development with Akshay Agrawal](https://podcasts.apple.com/us/podcast/building-the-future-of-collaborative-ai/id1504567418?i=1000682999652) - Gradient Dissent: Conversations on AI, 2025.
 - [Why Data and AI Still Break at Scale](https://www.youtube.com/live/WVxAz19tgZY?si=kXT11MCF3KIHolSz) - Vanishing Gradients, 2025.
 
 ## Blogs
 
+- [Reinventing notebooks as reusable Python programs](https://marimo.io/blog/python-not-json) - Explores how marimo transforms notebooks into versionable Python files for improved usability and testing.
 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) - Behind-the-scenes development blog about marimo's design principles.
 - [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WASM via Pyodide.
 - [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) - How marimo enables reproducibility of notebooks, down to the packages.
+- [Why Stanford scientists needed a new Python notebook](https://marimo.io/blog/slac-marimo) - How SLAC National Lab uses marimo for scientific computing tasks.
