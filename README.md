@@ -80,6 +80,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples.
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
 - [puppy](https://github.com/liquidcarbon/puppy) - A Python project manager, with support for marimo.
+- [marimo-pixi-starter-template](https://github.com/Hofer-Julian/marimo-pixi-starter-template) - A starter template for marimo notebooks using pixi for dependency and project management.
 
 ## Education
 
