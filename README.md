@@ -69,6 +69,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw.
 - [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
+- [marimo-scipy-utils](https://github.com/hbmartin/marimo-scipy-utils) - Utility functions for creating interactive marimo components with scipy distributions.
 
 ## Projects Using marimo
 
