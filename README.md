@@ -63,7 +63,6 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
 - [mowidget](https://github.com/metaboulie/marimo-widgets) - Custom marimo widgets, including a color picker, array viewer, and more.
-- [motheme](https://github.com/metaboulie/marimo-themes) - Install custom themes for the marimo editor.
 - [mohtml](https://github.com/koaning/mohtml) - DSL for HTML that targets marimo.
 - [motest](https://github.com/koaning/motest) - Make it easier to use elaborate pytests in marimo notebooks.
 - [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw.
