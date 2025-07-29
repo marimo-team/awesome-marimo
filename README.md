@@ -101,6 +101,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Reimagining Python Notebooks with marimo](https://creators.spotify.com/pod/show/ossstartuppodcast/episodes/E161-Reimagining-Python-Notebooks-with-Marimo-e2sd75p/a-abmeist) - Open Source Startup Podcast, 2024.
 - [Marimo - Reactive Notebooks for Python](https://talkpython.fm/episodes/show/501/marimo-reactive-notebooks-for-python) - Talk Python To Me, 2025.
 - [Building the future of collaborative AI development with Akshay Agrawal](https://podcasts.apple.com/us/podcast/building-the-future-of-collaborative-ai/id1504567418?i=1000682999652) - Gradient Dissent: Conversations on AI, 2025.
+- [Revolutionizing Python Notebooks with Marimo](https://www.dataengineeringpodcast.com/episodepage/marimo-production-ready-python-notebooks-episode-474) - Data Engineering Podcast, 2025.
 - [Why Data and AI Still Break at Scale](https://www.youtube.com/live/WVxAz19tgZY?si=kXT11MCF3KIHolSz) - Vanishing Gradients, 2025.
 
 ## Blogs
