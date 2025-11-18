@@ -105,7 +105,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [The Future of Python Notebooks is Here, with Marimo's Akshay Agrawal](https://www.superdatascience.com/podcast/sds-911-the-future-of-python-notebooks-is-here-with-marimos-dr-akshay-agrawal) - SuperDataScience, 2025.
 - [Why Data and AI Still Break at Scale](https://www.youtube.com/live/WVxAz19tgZY?si=kXT11MCF3KIHolSz) - Vanishing Gradients, 2025.
 - [The AI-Native Notebook that Thinks like a Spreadsheet](https://thedataexchange.media/marimo/) - The Data Exchange, 2025.
-- [Building reactive Python notebooks with Marimo](https://youtu.be/6ieymfumg6g?si=vhZJ-Qyb0fVZiPE-) - Pybites, 2025.
+- [Building reactive Python notebooks with Marimo](https://youtu.be/6ieymfumg6g?si=phkIMGVgvYjovwUg) - Pybites, 2025.
 
 ## Blogs
 
