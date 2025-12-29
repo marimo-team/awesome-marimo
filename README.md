@@ -20,7 +20,19 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 
 ## Table of Contents
 
-Use the "Table of Contents" menu on the top-right corner of the README to explore the list.
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [Tutorials](#tutorials)
+- [Get Started](#get-started)
+  - [Deployment Templates](#deployment-templates)
+- [Libraries](#libraries)
+  - [Deployment](#deployment)
+  - [Projects Using marimo](#projects-using-marimo)
+- [Education](#education)
+- [Media](#media)
+  - [Talks](#talks)
+  - [Podcasts](#podcasts)
+  - [Blogs](#blogs)
 
 ## Resources
 
@@ -56,11 +68,6 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [HuggingFace Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to HuggingFace Spaces.
 - [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying the marimo editor to Railway.
 
-## Deployment
-
-- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
-- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
-
 ## Libraries
 
 - [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - A mkdocs plugin for reactive and interactive docs with marimo.
@@ -74,7 +81,12 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 - [marimo-scipy-utils](https://github.com/hbmartin/marimo-scipy-utils) - Utility functions for creating interactive marimo components with scipy distributions.
 
-## Projects Using marimo
+### Deployment
+
+- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
+- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
+
+### Projects Using marimo
 
 - [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo.
 - [marimo on deepwiki.com](https://deepwiki.com/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
@@ -93,12 +105,14 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
 - [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
 
-## Talks
+## Media
+
+### Talks
 
 - [marimo: an open-source reactive notebook for Python](https://www.youtube.com/watch?v=9R2cQygaoxQ) - North Bay Python, 2024.
 - [Marimo: A Notebook that "Compiles" Python for Reproducibility and Reusability](https://youtu.be/3-3zy5W2SOw?si=uAaufsytvbstKmT7) - PyCon US, 2025.
 
-## Podcasts
+### Podcasts
 
 - [How to rethink the notebook with Akshay Agrawal, co-creator of Marimo](https://www.youtube.com/watch?v=srQ3ESat6u4) - Sample Space, 2024.
 - [Reactive Notebooks and Deployable Web Apps in Python](https://realpython.com/podcasts/rpp/230/) - The Real Python Podcast, 2024.
@@ -111,7 +125,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [The AI-Native Notebook that Thinks like a Spreadsheet](https://thedataexchange.media/marimo/) - The Data Exchange, 2025.
 - [Building reactive Python notebooks with Marimo](https://youtu.be/6ieymfumg6g?si=phkIMGVgvYjovwUg) - Pybites, 2025.
 
-## Blogs
+### Blogs
 
 - [Reinventing notebooks as reusable Python programs](https://marimo.io/blog/python-not-json) - Explores how marimo transforms notebooks into versionable Python files for improved usability and testing.
 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) - Behind-the-scenes development blog about marimo's design principles.
