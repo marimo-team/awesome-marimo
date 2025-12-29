@@ -56,9 +56,13 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [HuggingFace Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to HuggingFace Spaces.
 - [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying the marimo editor to Railway.
 
+## Deployment
+
+- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
+- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
+
 ## Libraries
 
-- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
 - [mkdocs-marimo](https://github.com/marimo-team/mkdocs-marimo) - A mkdocs plugin for reactive and interactive docs with marimo.
 - [expd](https://github.com/marimo-team/expd) - Run computational experiments using marimo notebooks.
 - [quarto-marimo](https://github.com/dmadisetti/quarto-marimo) - Use marimo and quarto together.
