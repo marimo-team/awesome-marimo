@@ -1,5 +1,3 @@
-<!--lint disable awesome-heading awesome-toc -->
-
 <p align="center">
   <img width="400" src="./assets/logo.png" alt="logo of awesome-marimo repository">
 </p>
@@ -18,7 +16,7 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
 </a>
 </p>
 
-## Table of Contents
+## Contents
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -60,12 +58,12 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 ## Get Started
 
 - [Getting Started docs](https://docs.marimo.io/getting_started/index.html) - Getting Started with marimo.
-- [Examples](https://github.com/marimo-team/marimo/tree/main/examples) - Examples of marimo notebooks, curated by the marimo team.
+- [Notebook Examples](https://github.com/marimo-team/marimo/tree/main/examples) - Examples of marimo notebooks, curated by the marimo team.
 - [Gallery](https://marimo.io/gallery) - Community contributed examples.
 
 ### Deployment Templates
 
-- [HuggingFace Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to HuggingFace Spaces.
+- [Hugging Face Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to Hugging Face Spaces.
 - [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying the marimo editor to Railway.
 
 ## Libraries
@@ -79,12 +77,12 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [mopaint](https://github.com/koaning/mopaint) - Widget that feels like MSPaint that allows you to draw.
 - [modraw](https://github.com/koaning/modraw) - Widgets built on top of [tldraw](https://www.tldraw.com/) that allow you to draw.
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
-- [marimo-scipy-utils](https://github.com/hbmartin/marimo-scipy-utils) - Utility functions for creating interactive marimo components with scipy distributions.
+- [marimo-scipy-utils](https://github.com/hbmartin/marimo-scipy-utils) - Utility functions for creating interactive marimo components with SciPy distributions.
 
 ### Deployment
 
-- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 - [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
+- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 
 ### Projects Using marimo
 
@@ -129,6 +127,6 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 - [Reinventing notebooks as reusable Python programs](https://marimo.io/blog/python-not-json) - Explores how marimo transforms notebooks into versionable Python files for improved usability and testing.
 - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned) - Behind-the-scenes development blog about marimo's design principles.
-- [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WASM via Pyodide.
+- [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WebAssembly via Pyodide.
 - [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) - How marimo enables reproducibility of notebooks, down to the packages.
 - [Why Stanford scientists needed a new Python notebook](https://marimo.io/blog/slac-marimo) - How SLAC National Lab uses marimo for scientific computing tasks.
