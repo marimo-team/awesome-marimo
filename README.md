@@ -22,11 +22,10 @@ A curated list of awesome things related to <a href='https://github.com/marimo-t
   - [Official Resources](#official-resources)
   - [Tutorials](#tutorials)
 - [Get Started](#get-started)
-  - [Deployment Templates](#deployment-templates)
+- [Classes using marimo](#classes-using-marimo)
+- [Deployment](#deployment)
 - [Libraries](#libraries)
-  - [Deployment](#deployment)
-  - [Projects Using marimo](#projects-using-marimo)
-- [Education](#education)
+- [Projects Using marimo](#projects-using-marimo)
 - [Media](#media)
   - [Talks](#talks)
   - [Podcasts](#podcasts)
@@ -43,7 +42,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Discord](https://marimo.io/discord)
 - [YouTube](https://www.youtube.com/@marimo-team)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
-- [WebAssembly Playground](https://marimo.app)
+- [molab](https://molab.marimo.io/notebooks)
 - [marimo learn](https://github.com/marimo-team/learn)
 - [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
 - [Spotlights](https://github.com/marimo-team/spotlights/)
@@ -57,14 +56,23 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 
 ## Get Started
 
-- [Getting Started docs](https://docs.marimo.io/getting_started/index.html) - Getting Started with marimo.
-- [Notebook Examples](https://github.com/marimo-team/marimo/tree/main/examples) - Examples of marimo notebooks, curated by the marimo team.
+- [Getting Started docs](https://docs.marimo.io/getting_started/index.html) - Getting Started with marimo open source.
 - [Gallery](https://marimo.io/gallery) - Community contributed examples.
+- [molab](https://molab.marimo.io/notebooks) - Our free hosted notebook.
 
-### Deployment Templates
+## Classes using marimo
 
-- [Hugging Face Spaces template](https://huggingface.co/spaces/marimo-team/marimo-app-template/tree/main) - Template for deploying marimo notebooks as apps to Hugging Face Spaces.
-- [Railway template](https://railway.app/template/iX6puU?referralCode=WdmHYp) - Template for deploying the marimo editor to Railway.
+- [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) - Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium.
+- [Supply Chain Network Design](https://wvu-gscm-425.github.io/learning-modules/01-setting-up-your-workstation.html#marimo) - A course on supply chain optimization and design, featuring marimo notebooks. 
+- [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
+- [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
+- [Dartbrains](https://dartbrains.org/) - A course at Dartmouth that introduces in vivo neuroimaging in humans using functional magnetic resonance imaging.
+
+## Deployment
+
+- [marimohub](https://github.com/marimo-team/marimohub) - Self-host a collaborative marimo workspace.
+- [marimo-jupyter-extension](https://github.com/marimo-team/marimo-jupyter-extension) - Enables the JupyterLab launcher to launch marimo.
+- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
 
 ## Libraries
 
@@ -79,12 +87,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [wigglystuff](https://github.com/koaning/wigglystuff) - Creative widgets for explorable explanations.
 - [marimo-scipy-utils](https://github.com/hbmartin/marimo-scipy-utils) - Utility functions for creating interactive marimo components with SciPy distributions.
 
-### Deployment
-
-- [jupyter-marimo-proxy](https://github.com/jyio/jupyter-marimo-proxy) - Enables the JupyterLab launcher to launch marimo.
-- [marimo-operator](https://github.com/marimo-team/marimo-operator) - Kubernetes operator for deploying and managing marimo notebooks with persistent storage and resource control.
-
-### Projects Using marimo
+## Projects Using marimo
 
 - [marimo agents](https://github.com/marimo-team/marimo/issues/3916) - Using agents in marimo.
 - [marimo on deepwiki.com](https://deepwiki.com/marimo-team/marimo) - An AI-generated wiki of the marimo codebase, with chat support.
@@ -96,14 +99,6 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [llmwiki-marimo](https://github.com/Clod/llmwiki-marimo) - A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).
 - [puppy](https://github.com/liquidcarbon/puppy) - A Python project manager, with support for marimo.
 - [marimo-pixi-starter-template](https://github.com/Hofer-Julian/marimo-pixi-starter-template) - A starter template for marimo notebooks using pixi for dependency and project management.
-
-## Education
-
-- [Data visualization with marimo and anywidget](https://g0r72a-tutorial-pythonsvg-466697.pages.gitlab.kuleuven.be/) - Teaching Material for Data Visualisation in Data Science course at KU Leuven, Belgium.
-- [Supply Chain Network Design](https://wvu-gscm-425.github.io/learning-modules/01-setting-up-your-workstation.html#marimo) - A course on supply chain optimization and design, featuring marimo notebooks. 
-- [Convex Optimization at NASA](https://www.cvxgrp.org/nasa/) - A course on convex optimization taught at NASA, with engineering examples.
-- [Econometrics 1](https://rgouveiamendes.org/teaching/iscte-iul/econometrics-i/) - An econometrics course with marimo notebook materials.
-- [Dartbrains](https://dartbrains.org/) - A course at Dartmouth that introduces in vivo neuroimaging in humans using functional magnetic resonance imaging.
 
 ## Media
 
