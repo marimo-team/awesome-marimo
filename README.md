@@ -96,6 +96,7 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [cvxrisk](https://www.cvxgrp.org/cvxrisk/book/docs/index.html) - Compile risk with CVXPY, with marimo notebooks as examples.
 - [cvxsimulator](https://www.cvxgrp.org/simulator/book/docs/index.html) - A tool to support backtests, with marimo notebooks as examples.
 - [djalgo](https://djalgo-ef307e.gitlab.io/source/user-guide.html) - A Python toolkit for music composition, with a user guide in marimo.
+- [livetennis-marimo](https://github.com/livetennisapi/livetennis-marimo) - A reactive live-tennis scoreboard notebook on the Live Tennis API, with live scores, fixtures, and a sample-data mode that needs no API key.
 - [llmwiki-marimo](https://github.com/Clod/llmwiki-marimo) - A local-first implementation of Karpathy's LLM-Wiki pattern, with marimo apps as the entire UI (ingest PDFs into an interlinked wiki, browse it, chat with cited answers).
 - [puppy](https://github.com/liquidcarbon/puppy) - A Python project manager, with support for marimo.
 - [marimo-pixi-starter-template](https://github.com/Hofer-Julian/marimo-pixi-starter-template) - A starter template for marimo notebooks using pixi for dependency and project management.
