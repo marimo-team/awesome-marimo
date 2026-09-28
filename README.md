@@ -127,3 +127,4 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [marimo: a reactive Python notebook that runs entirely in the browser](https://blog.pyodide.org/posts/marimo/) - How marimo added support for WebAssembly via Pyodide.
 - [Serializing package requirements in marimo notebooks](https://marimo.io/blog/sandboxed-notebooks) - How marimo enables reproducibility of notebooks, down to the packages.
 - [Why Stanford scientists needed a new Python notebook](https://marimo.io/blog/slac-marimo) - How SLAC National Lab uses marimo for scientific computing tasks.
+- [Web data in a reactive notebook: an introduction to marimo](https://www.zyte.com/blog/web-data-in-a-reactive-notebook-an-introduction-to-marimo/) - A two-stage web scraper with a drag-to-filter Altair chart and a persistent cache on the paid fetch.
