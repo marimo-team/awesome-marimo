@@ -42,7 +42,6 @@ _Have a project or resource you'd like to add? Submit a [pull request](https://g
 - [Discord](https://marimo.io/discord)
 - [YouTube](https://www.youtube.com/@marimo-team)
 - [Release Notes](https://github.com/marimo-team/marimo/releases)
-- [molab](https://molab.marimo.io/notebooks)
 - [marimo learn](https://github.com/marimo-team/learn)
 - [Awesome marimo](https://github.com/marimo-team/awesome-marimo)
 - [Spotlights](https://github.com/marimo-team/spotlights/)
